@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
  I am a two-year undergraduate student at [Institute of Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/) at Tsinghua University. My research interests include Internet measurement and machine learning.
-
- [Email](chenhx23@mails.tsinghua.edu.cn)
